@@ -9,7 +9,7 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 
 --- Day 2: [Password Philosophy](https://github.com/tsalgie/advent_of_code_2020/blob/main/02/password_philosophy.py) ---
 
---- Day 3: [Toboggan Trajectory](https://github.com/tsalgie/advent_of_code_2020/blob/main/02/toboggan_trajectory.py) ---
+--- Day 3: [Toboggan Trajectory](https://github.com/tsalgie/advent_of_code_2020/blob/main/03/toboggan_trajectory.py) ---
 - I think we only need to look at the data once for this
 
---- Day 4: [Passport Processing](https://github.com/tsalgie/advent_of_code_2020/blob/main/02/passport_processing.py) ---
+--- Day 4: [Passport Processing](https://github.com/tsalgie/advent_of_code_2020/blob/main/04/passport_processing.py) ---
