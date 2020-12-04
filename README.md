@@ -8,3 +8,6 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 - This can still be generalized for N numbers, which would be pretty cool
 
 --- Day 2: [Password Philosophy](https://github.com/tsalgie/advent_of_code_2020/blob/main/02/password_philosophy.py) ---
+
+--- Day 3: [Toboggan Trajectory](https://github.com/tsalgie/advent_of_code_2020/blob/main/02/toboggan_trajectory.py) ---
+- I think we only need to look at the data once for this
