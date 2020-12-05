@@ -20,11 +20,11 @@ def three_product(numbers, value):
             return result * numbers[i]
 
 if __name__ == "__main__":
-    numbers = None
+    contents = None
     with open('input.txt') as f:
-        numbers = sorted(map(lambda x : int(x.strip()), f.readlines()))
-    first_answer = two_product(numbers, 2020)
-    second_answer = three_product(numbers, 2020)
+        contents = sorted(map(lambda x : int(x.strip()), f.readlines()))
+    first_answer = two_product(contents, 2020)
+    second_answer = three_product(contents, 2020)
     with open('output.txt', 'w') as f:
         f.write("Part one: {}\n".format(first_answer))
         f.write("Part two: {}\n".format(second_answer))

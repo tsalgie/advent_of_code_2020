@@ -13,3 +13,6 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 - I think we only need to look at the data once for this
 
 --- Day 4: [Passport Processing](https://github.com/tsalgie/advent_of_code_2020/blob/main/04/passport_processing.py) ---
+
+--- Day 5: [Binary Boarding](https://github.com/tsalgie/advent_of_code_2020/blob/main/05/binary_boarding.py) ---
+- The first solution is very bad here, but fun. The second I should have just checked for an unoccupied seat among the occupied instead of checking in the list of unoccupied seats.

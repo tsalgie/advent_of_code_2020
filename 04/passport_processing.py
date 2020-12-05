@@ -34,10 +34,10 @@ def valid_passports_02(lines):
     return num_valid
 
 if __name__ == "__main__":
-    lines = None
+    contents = None
     with open('input.txt') as f:
-        lines = f.readlines() + ['\n']
+        contents = f.readlines() + ['\n']
 
     with open('output.txt', 'w') as f:
-        f.write("Part one: {}\n".format(valid_passports_01(lines)))
-        f.write("Part two: {}\n".format(valid_passports_02(lines)))
+        f.write("Part one: {}\n".format(valid_passports_01(contents)))
+        f.write("Part two: {}\n".format(valid_passports_02(contents)))
