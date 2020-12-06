@@ -6,7 +6,7 @@ def binary_boarding(lines):
 
 def binary_finding(lines):
     seat_index = next(i for i in range(len(lines) - 1) if int(lines[i+1], 2) - int(lines[i], 2) == 2) + 1
-    return seat_id(lines[seat_index])
+    return seat_id(lines[seat_index])-1
 
 if __name__ == "__main__":
     with open('input.txt') as f:
