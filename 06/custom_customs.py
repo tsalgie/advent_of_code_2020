@@ -7,7 +7,7 @@ def custom_customs(lines, operation):
             current_line = None
         else:
             current_line = set(line) if current_line == None else operation(current_line, line)
-    return count    
+    return count
 
 if __name__ == "__main__":
     with open('input.txt') as f:
