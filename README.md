@@ -19,3 +19,5 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 --- Day 6: [Custom Customs](https://github.com/tsalgie/advent_of_code_2020/blob/main/06/custom_customs.py) ---
 
 --- Day 7: [Handy Haversacks](https://github.com/tsalgie/advent_of_code_2020/blob/main/07/handy_haversacks.py) ---
+
+--- Day 8: [Handheld Halting](https://github.com/tsalgie/advent_of_code_2020/blob/main/08/handheld_halting.py) ---
