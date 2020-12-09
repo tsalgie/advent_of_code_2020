@@ -21,3 +21,5 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 --- Day 7: [Handy Haversacks](https://github.com/tsalgie/advent_of_code_2020/blob/main/07/handy_haversacks.py) ---
 
 --- Day 8: [Handheld Halting](https://github.com/tsalgie/advent_of_code_2020/blob/main/08/handheld_halting.py) ---
+
+--- Day 9: [Encoding Error](https://github.com/tsalgie/advent_of_code_2020/blob/main/09/encoding_error.py) ---
