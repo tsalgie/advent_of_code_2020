@@ -25,3 +25,7 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 --- Day 9: [Encoding Error](https://github.com/tsalgie/advent_of_code_2020/blob/main/09/encoding_error.py) ---
 
 --- Day 10: [Adapter Array](https://github.com/tsalgie/advent_of_code_2020/blob/main/10/adapter_array.py) ---
+
+--- Day 11: [Seating System](https://github.com/tsalgie/advent_of_code_2020/blob/main/10/seating_system.py) ---
+
+--- Day 12: [Rain Risk](https://github.com/tsalgie/advent_of_code_2020/blob/main/10/rain_risk.py) ---
