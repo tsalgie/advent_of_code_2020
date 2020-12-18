@@ -35,3 +35,7 @@ Each solution will accept the provided input from the file **input.txt**, and wr
 --- Day 14: [Docking Data](https://github.com/tsalgie/advent_of_code_2020/blob/main/14/docking_data.py) ---
 
 --- Day 15: [Rambunctious Recitation](https://github.com/tsalgie/advent_of_code_2020/blob/main/15/rambunctious_recitation.py) ---
+
+--- Day 16: [Ticket Translation](https://github.com/tsalgie/advent_of_code_2020/blob/main/16/ticket_transalation.py) ---
+
+--- Day 17: [Conway Cubes](https://github.com/tsalgie/advent_of_code_2020/blob/main/17/conway_cubes.py) ---
